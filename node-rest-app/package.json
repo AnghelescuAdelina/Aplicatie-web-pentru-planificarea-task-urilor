@@ -1,0 +1,19 @@
+{
+  "name": "rest-app",
+  "version": "1.0.0",
+  "description": "An attempt to create a functional backend( for an organizing page)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalcaStefania/res-api.git"
+  },
+  "author": "Balca Stefania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalcaStefania/res-api/issues"
+  },
+  "homepage": "https://github.com/BalcaStefania/res-api#readme"
+}
