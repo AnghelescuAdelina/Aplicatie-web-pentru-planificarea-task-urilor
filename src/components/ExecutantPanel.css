@@ -1,0 +1,14 @@
+.panel {
+    background-color: #fdfdfd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(135, 126, 126, 0.1);
+}
+
+ul {
+    padding-left: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}

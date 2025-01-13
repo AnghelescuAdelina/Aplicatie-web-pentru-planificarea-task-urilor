@@ -1,0 +1,16 @@
+.panel {
+    background-color: #fdfdfd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(135, 126, 126, 0.1);
+}
+
+button {
+    background-color: #ffc107;
+    border: none;
+    color: white;
+}
+
+button:hover {
+    background-color: #e0a800;
+}
